@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FreeGlut", "FreeGlut\FreeGlut.vcxproj", "{F899013B-5A65-483C-9F49-F4EF267458EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F899013B-5A65-483C-9F49-F4EF267458EE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F899013B-5A65-483C-9F49-F4EF267458EE}.Debug|Win32.Build.0 = Debug|Win32
+		{F899013B-5A65-483C-9F49-F4EF267458EE}.Release|Win32.ActiveCfg = Release|Win32
+		{F899013B-5A65-483C-9F49-F4EF267458EE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

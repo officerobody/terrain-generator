@@ -1,0 +1,17 @@
+﻿Build started 13/01/2014 2:30:17 PM.
+     1>Project "C:\Users\Alex\Documents\Software Engineering\Year 2 - Term 1\Alex Zaranek - 1059318 - 3GC3 A2\Terrain Generator\FreeGlut\FreeGlut.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\FreeGlut.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         FreeGlut.vcxproj -> C:\Users\Alex\Documents\Software Engineering\Year 2 - Term 1\Alex Zaranek - 1059318 - 3GC3 A2\Terrain Generator\Debug\FreeGlut.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\FreeGlut.unsuccessfulbuild".
+         Touching "Debug\FreeGlut.lastbuildstate".
+     1>Done Building Project "C:\Users\Alex\Documents\Software Engineering\Year 2 - Term 1\Alex Zaranek - 1059318 - 3GC3 A2\Terrain Generator\FreeGlut\FreeGlut.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
